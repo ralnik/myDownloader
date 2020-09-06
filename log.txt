@@ -1,0 +1,2860 @@
+[2020.09.05 23:30:03][info] Запуск приложения
+[2020.09.05 23:30:03][debug] timer: 5000
+[2020.09.05 23:30:05][info] Запуск процесса
+[2020.09.05 23:30:05][info] Процесс запущен
+[2020.09.05 23:30:11][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:11][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:11][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:11][debug] chunckList: chunklist_w1853849473.m3u8
+[2020.09.05 23:30:11][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1853849473.m3u8
+[2020.09.05 23:30:11][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:12][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:12][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:12][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:15][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:15][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:15][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:15][debug] chunckList: chunklist_w1157082034.m3u8
+[2020.09.05 23:30:15][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1157082034.m3u8
+[2020.09.05 23:30:15][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:16][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:16][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:16][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:20][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:20][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:20][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:20][debug] chunckList: chunklist_w1173188596.m3u8
+[2020.09.05 23:30:20][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1173188596.m3u8
+[2020.09.05 23:30:20][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:21][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:21][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:21][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:25][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:25][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:25][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:25][debug] chunckList: chunklist_w1964476020.m3u8
+[2020.09.05 23:30:25][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1964476020.m3u8
+[2020.09.05 23:30:26][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:27][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:28][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:28][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:30][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:30][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:30][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:30][debug] chunckList: chunklist_w949107234.m3u8
+[2020.09.05 23:30:30][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w949107234.m3u8
+[2020.09.05 23:30:30][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:31][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:31][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:31][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:35][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:35][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:35][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:35][debug] chunckList: chunklist_w395243971.m3u8
+[2020.09.05 23:30:35][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w395243971.m3u8
+[2020.09.05 23:30:35][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:36][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:37][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:37][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:40][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:40][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:40][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:40][debug] chunckList: chunklist_w2143744905.m3u8
+[2020.09.05 23:30:40][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w2143744905.m3u8
+[2020.09.05 23:30:40][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:42][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:42][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:42][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:30:45][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:30:45][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:30:45][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:30:45][debug] chunckList: chunklist_w602258130.m3u8
+[2020.09.05 23:30:45][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w602258130.m3u8
+[2020.09.05 23:30:45][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:30:46][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:30:46][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:30:46][info] Попытка остановки процесса
+[2020.09.05 23:30:46][info] Процесс остановлен
+[2020.09.05 23:30:46][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:31:48][info] Запуск приложения
+[2020.09.05 23:31:48][debug] timer: 5000
+[2020.09.05 23:31:48][info] Запуск приложения
+[2020.09.05 23:31:48][debug] timer: 5000
+[2020.09.05 23:31:50][info] Запуск процесса
+[2020.09.05 23:31:50][info] Процесс запущен
+[2020.09.05 23:31:56][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:31:56][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:31:56][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:31:56][info] Удален файл: chuncklist.m3u8
+[2020.09.05 23:31:56][info] Удален файл: playlist.m3u8
+[2020.09.05 23:31:56][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:31:56][debug] chunckList: chunklist_w191233823.m3u8
+[2020.09.05 23:31:56][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w191233823.m3u8
+[2020.09.05 23:31:56][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:31:56][info] Удален файл: playlist.m3u8
+[2020.09.05 23:31:56][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:31:56][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:31:56][info] Удален файл: 1.TS
+[2020.09.05 23:31:56][info] Удален файл: 2.TS
+[2020.09.05 23:31:56][info] Удален файл: 3.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1111887321_90033.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1111887321_90034.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1111887321_90035.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w176625530_90085.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w176625530_90086.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w176625530_90087.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1912198451_90081.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1912198451_90082.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w1912198451_90083.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w2021966635_90085.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w2021966635_90086.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w2021966635_90087.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w267208786_90079.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w267208786_90080.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w267208786_90081.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w277620394_89870.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w277620394_89871.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w277620394_89872.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w32517116_89701.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w32517116_89702.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w32517116_89703.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w461662718_90034.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w461662718_90035.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w461662718_90036.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w559830792_90035.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w559830792_90036.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w559830792_90037.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w651133065_90082.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w651133065_90083.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w651133065_90084.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w858746002_90034.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w858746002_90035.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w858746002_90036.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w967781099_90082.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w967781099_90083.TS
+[2020.09.05 23:31:56][info] Удален файл: media_w967781099_90084.TS
+[2020.09.05 23:31:56][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:31:56][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:31:56][info] Удален файл: 1.TS
+[2020.09.05 23:31:56][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:31:56][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:31:56][info] Удален файл: 2.TS
+[2020.09.05 23:31:57][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:32:00][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:32:00][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:32:00][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:32:00][info] Удален файл: chuncklist.m3u8
+[2020.09.05 23:32:00][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:32:00][debug] chunckList: chunklist_w699833557.m3u8
+[2020.09.05 23:32:00][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w699833557.m3u8
+[2020.09.05 23:32:00][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:32:00][info] Удален файл: playlist.m3u8
+[2020.09.05 23:32:00][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:32:00][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:00][info] Удален файл: 3.TS
+[2020.09.05 23:32:00][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:32:00][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:00][info] Удален файл: 1.TS
+[2020.09.05 23:32:00][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:32:00][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:00][info] Удален файл: 2.TS
+[2020.09.05 23:32:01][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:32:05][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:32:05][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:32:05][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:32:05][info] Удален файл: chuncklist.m3u8
+[2020.09.05 23:32:05][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:32:05][debug] chunckList: chunklist_w1943700804.m3u8
+[2020.09.05 23:32:05][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1943700804.m3u8
+[2020.09.05 23:32:05][info] Очистка каталога C:\git\java\myDownloader\PLAYLIST
+[2020.09.05 23:32:05][info] Удален файл: playlist.m3u8
+[2020.09.05 23:32:05][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:32:05][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:05][info] Удален файл: 3.TS
+[2020.09.05 23:32:05][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:32:05][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:05][info] Удален файл: 1.TS
+[2020.09.05 23:32:05][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:32:05][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:32:05][info] Удален файл: 2.TS
+[2020.09.05 23:32:06][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:32:08][info] Попытка остановки процесса
+[2020.09.05 23:32:08][info] Процесс остановлен
+[2020.09.05 23:44:48][info] Запуск приложения
+[2020.09.05 23:44:48][debug] timer: 5000
+[2020.09.05 23:45:00][info] Запуск процесса
+[2020.09.05 23:45:00][info] Процесс запущен
+[2020.09.05 23:45:05][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:45:05][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:45:06][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:45:06][debug] chunckList: chunklist_w2100009276.m3u8
+[2020.09.05 23:45:06][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w2100009276.m3u8
+[2020.09.05 23:45:06][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:45:06][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:45:06][info] Удален файл: 3.TS
+[2020.09.05 23:45:06][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:45:06][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:45:06][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:45:10][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:45:10][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:45:10][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:45:10][debug] chunckList: chunklist_w1478361787.m3u8
+[2020.09.05 23:45:10][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1478361787.m3u8
+[2020.09.05 23:45:10][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:45:10][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:45:10][info] Удален файл: 1.TS
+[2020.09.05 23:45:10][info] Удален файл: 2.TS
+[2020.09.05 23:45:10][info] Удален файл: 3.TS
+[2020.09.05 23:45:10][debug] файл C:\git\java\myDownloader\VIDEO\1.TS успешно закачан
+[2020.09.05 23:45:10][debug] файл C:\git\java\myDownloader\VIDEO\2.TS успешно закачан
+[2020.09.05 23:45:10][debug] файл C:\git\java\myDownloader\VIDEO\3.TS успешно закачан
+[2020.09.05 23:45:12][info] Попытка остановки процесса
+[2020.09.05 23:45:12][info] Процесс остановлен
+[2020.09.05 23:52:37][info] Запуск приложения
+[2020.09.05 23:52:37][debug] timer: 5000
+[2020.09.05 23:52:38][info] Запуск процесса
+[2020.09.05 23:52:38][info] Процесс запущен
+[2020.09.05 23:52:44][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:44][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:44][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:44][debug] chunckList: chunklist_w1807726570.m3u8
+[2020.09.05 23:52:44][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1807726570.m3u8
+[2020.09.05 23:52:44][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:44][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:44][info] Удален файл: 1.TS
+[2020.09.05 23:52:44][info] Удален файл: 2.TS
+[2020.09.05 23:52:44][info] Удален файл: 3.TS
+[2020.09.05 23:52:44][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:52:45][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:45][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:45][debug] chunckList: chunklist_w1060314722.m3u8
+[2020.09.05 23:52:45][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1060314722.m3u8
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:45][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:52:45][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:45][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:45][debug] chunckList: chunklist_w1790921043.m3u8
+[2020.09.05 23:52:45][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1790921043.m3u8
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:45][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:52:45][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:52:46][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:52:48][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:48][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:48][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:48][debug] chunckList: chunklist_w1129550381.m3u8
+[2020.09.05 23:52:48][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1129550381.m3u8
+[2020.09.05 23:52:48][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:48][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:52:49][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:49][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:49][debug] chunckList: chunklist_w1957024238.m3u8
+[2020.09.05 23:52:49][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1957024238.m3u8
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:49][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:52:49][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:49][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:49][debug] chunckList: chunklist_w1530900390.m3u8
+[2020.09.05 23:52:49][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1530900390.m3u8
+[2020.09.05 23:52:49][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:49][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:50][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:52:50][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:52:50][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:52:53][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:53][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:53][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:53][debug] chunckList: chunklist_w1164036440.m3u8
+[2020.09.05 23:52:53][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1164036440.m3u8
+[2020.09.05 23:52:53][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:53][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:52:58][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:52:58][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:52:59][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:52:59][debug] chunckList: chunklist_w479604301.m3u8
+[2020.09.05 23:52:59][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w479604301.m3u8
+[2020.09.05 23:52:59][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:52:59][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:53:00][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:00][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:00][debug] chunckList: chunklist_w1693004266.m3u8
+[2020.09.05 23:53:00][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1693004266.m3u8
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:00][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:00][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:53:01][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:01][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:01][debug] chunckList: chunklist_w1068912019.m3u8
+[2020.09.05 23:53:01][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1068912019.m3u8
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:01][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:53:01][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:53:02][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:53:03][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:53:03][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:03][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:03][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:03][debug] chunckList: chunklist_w1498678380.m3u8
+[2020.09.05 23:53:03][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1498678380.m3u8
+[2020.09.05 23:53:03][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:03][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:53:04][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:04][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:04][debug] chunckList: chunklist_w1502469212.m3u8
+[2020.09.05 23:53:04][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1502469212.m3u8
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:04][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:04][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:04][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:04][debug] chunckList: chunklist_w197745683.m3u8
+[2020.09.05 23:53:04][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w197745683.m3u8
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:04][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:53:04][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:53:05][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:05][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:05][debug] chunckList: chunklist_w324283998.m3u8
+[2020.09.05 23:53:05][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w324283998.m3u8
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:05][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:53:05][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:05][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:05][debug] chunckList: chunklist_w933963219.m3u8
+[2020.09.05 23:53:05][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w933963219.m3u8
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:53:05][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:53:05][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:53:06][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:53:06][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:53:06][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:53:08][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:08][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:08][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:08][debug] chunckList: chunklist_w465527506.m3u8
+[2020.09.05 23:53:08][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w465527506.m3u8
+[2020.09.05 23:53:08][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:08][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:53:09][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:09][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:09][debug] chunckList: chunklist_w1504077.m3u8
+[2020.09.05 23:53:09][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1504077.m3u8
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:09][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:53:10][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:10][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:10][debug] chunckList: chunklist_w833143948.m3u8
+[2020.09.05 23:53:10][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w833143948.m3u8
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:10][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:53:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:53:13][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:13][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:13][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:13][debug] chunckList: chunklist_w1294626926.m3u8
+[2020.09.05 23:53:13][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1294626926.m3u8
+[2020.09.05 23:53:13][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:13][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:53:14][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:14][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:14][debug] chunckList: chunklist_w1597881238.m3u8
+[2020.09.05 23:53:14][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1597881238.m3u8
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:14][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:53:14][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:53:15][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:15][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:53:15][debug] chunckList: chunklist_w792582916.m3u8
+[2020.09.05 23:53:15][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w792582916.m3u8
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:53:15][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:53:15][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:53:18][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:53:18][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:53:38][error] java.net.SocketTimeoutException: Read timed out
+[2020.09.05 23:53:43][error] java.net.SocketTimeoutException: Read timed out
+[2020.09.05 23:53:55][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:53:59][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:53:59][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:04][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:04][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:09][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:14][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:16][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:20][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:20][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:20][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:24][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:26][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:26][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:29][info] Попытка остановки процесса
+[2020.09.05 23:54:29][info] Процесс остановлен
+[2020.09.05 23:54:30][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:31][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:35][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:36][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:37][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:40][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:41][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:42][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:45][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:46][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:47][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:50][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:51][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:52][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:56][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:54:57][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:01][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:02][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:06][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:07][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:11][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:11][error] java.net.NoRouteToHostException: No route to host: connect
+[2020.09.05 23:55:12][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:55:13][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:55:13][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:55:13][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:55:13][debug] chunckList: chunklist_w1485753204.m3u8
+[2020.09.05 23:55:13][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1485753204.m3u8
+[2020.09.05 23:55:13][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:55:13][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:55:13][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:55:13][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:55:13][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:55:16][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:55:16][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:55:16][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:55:16][debug] chunckList: chunklist_w398674776.m3u8
+[2020.09.05 23:55:16][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w398674776.m3u8
+[2020.09.05 23:55:16][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:55:16][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:55:16][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:55:16][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:55:16][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:55:17][error] java.net.ConnectException: Connection timed out: connect
+[2020.09.05 23:56:25][info] Запуск приложения
+[2020.09.05 23:56:25][debug] timer: 5000
+[2020.09.05 23:56:27][info] Запуск процесса
+[2020.09.05 23:56:27][info] Процесс запущен
+[2020.09.05 23:56:33][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:33][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:33][debug] chunckList: chunklist_w280229862.m3u8
+[2020.09.05 23:56:33][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w280229862.m3u8
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:33][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:33][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:33][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:33][debug] chunckList: chunklist_w1154644001.m3u8
+[2020.09.05 23:56:33][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1154644001.m3u8
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:33][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:33][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:34][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:34][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:34][debug] chunckList: chunklist_w870950148.m3u8
+[2020.09.05 23:56:34][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w870950148.m3u8
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:34][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:34][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:56:37][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:37][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:37][debug] chunckList: chunklist_w70167167.m3u8
+[2020.09.05 23:56:37][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w70167167.m3u8
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:37][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:37][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:37][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:37][debug] chunckList: chunklist_w1302695280.m3u8
+[2020.09.05 23:56:37][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1302695280.m3u8
+[2020.09.05 23:56:37][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:37][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:38][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:38][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:38][debug] chunckList: chunklist_w1837463688.m3u8
+[2020.09.05 23:56:38][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w1837463688.m3u8
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:38][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:56:42][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:42][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:42][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:42][debug] chunckList: chunklist_w1495412454.m3u8
+[2020.09.05 23:56:42][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1495412454.m3u8
+[2020.09.05 23:56:42][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:42][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:42][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:42][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:43][debug] chunckList: chunklist_w1686610913.m3u8
+[2020.09.05 23:56:43][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1686610913.m3u8
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:43][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:43][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:43][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:43][debug] chunckList: chunklist_w1810416858.m3u8
+[2020.09.05 23:56:43][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w1810416858.m3u8
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:43][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:43][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:56:47][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:47][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:47][debug] chunckList: chunklist_w1356865517.m3u8
+[2020.09.05 23:56:47][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w1356865517.m3u8
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:47][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:47][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:47][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:47][debug] chunckList: chunklist_w1496927171.m3u8
+[2020.09.05 23:56:47][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1496927171.m3u8
+[2020.09.05 23:56:47][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:47][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:48][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:48][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:48][debug] chunckList: chunklist_w735835090.m3u8
+[2020.09.05 23:56:48][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w735835090.m3u8
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:48][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:48][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:56:52][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:52][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:52][debug] chunckList: chunklist_w222789337.m3u8
+[2020.09.05 23:56:52][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w222789337.m3u8
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:52][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:52][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:52][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:52][debug] chunckList: chunklist_w1905414817.m3u8
+[2020.09.05 23:56:52][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1905414817.m3u8
+[2020.09.05 23:56:52][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:52][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:53][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:53][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:53][debug] chunckList: chunklist_w1751859258.m3u8
+[2020.09.05 23:56:53][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w1751859258.m3u8
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:53][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:53][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:56:57][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky01.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers01.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:57][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/playlist.m3u8
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:57][debug] chunckList: chunklist_w323347183.m3u8
+[2020.09.05 23:56:57][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky01.stream/chunklist_w323347183.m3u8
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:57][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\1.TS успешно закачан
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\2.TS успешно закачан
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\VIDEO\Cam1\3.TS успешно закачан
+[2020.09.05 23:56:57][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:57][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:57][debug] chunckList: chunklist_w1352767682.m3u8
+[2020.09.05 23:56:57][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1352767682.m3u8
+[2020.09.05 23:56:57][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:57][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.05 23:56:58][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.05 23:56:58][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.05 23:56:58][debug] chunckList: chunklist_w646838137.m3u8
+[2020.09.05 23:56:58][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w646838137.m3u8
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.05 23:56:58][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.05 23:56:58][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.05 23:57:00][info] Попытка остановки процесса
+[2020.09.05 23:57:00][info] Процесс остановлен
+[2020.09.05 23:59:39][info] Запуск приложения
+[2020.09.05 23:59:39][debug] timer: 5000
+[2020.09.06 06:46:29][info] Запуск приложения
+[2020.09.06 06:46:29][debug] timer: 5000
+[2020.09.06 06:46:31][info] Запуск процесса
+[2020.09.06 06:46:31][info] Процесс запущен
+[2020.09.06 06:46:37][error] org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://videocam.online/Object/Ingrad/RiverSky/Came.php
+[2020.09.06 06:46:37][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:46:37][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.06 06:46:37][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:46:37][debug] chunckList: chunklist_w1530766871.m3u8
+[2020.09.06 06:46:37][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1530766871.m3u8
+[2020.09.06 06:46:37][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:46:37][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:46:37][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.06 06:46:37][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.06 06:46:38][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:46:38][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:46:38][debug] chunckList: chunklist_w2124485158.m3u8
+[2020.09.06 06:46:38][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w2124485158.m3u8
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:46:38][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.06 06:46:38][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.06 06:46:41][error] org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://videocam.online/Object/Ingrad/RiverSky/Came.php
+[2020.09.06 06:46:41][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:46:41][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.06 06:46:41][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:46:41][debug] chunckList: chunklist_w1249722630.m3u8
+[2020.09.06 06:46:41][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1249722630.m3u8
+[2020.09.06 06:46:41][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:46:41][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:46:41][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.06 06:46:41][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.06 06:46:42][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:46:42][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:46:42][debug] chunckList: chunklist_w1794571029.m3u8
+[2020.09.06 06:46:42][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w1794571029.m3u8
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:46:42][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.06 06:46:42][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.06 06:46:45][info] Попытка остановки процесса
+[2020.09.06 06:46:45][info] Процесс остановлен
+[2020.09.06 06:53:57][info] Запуск приложения
+[2020.09.06 06:53:58][debug] timer: 5000
+[2020.09.06 06:53:59][info] Запуск процесса
+[2020.09.06 06:53:59][info] Процесс запущен
+[2020.09.06 06:54:05][error] org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://videocam.online/Object/Ingrad/RiverSky/Came.php
+[2020.09.06 06:54:08][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:54:08][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.06 06:54:08][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:54:08][debug] chunckList: chunklist_w1568995411.m3u8
+[2020.09.06 06:54:08][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w1568995411.m3u8
+[2020.09.06 06:54:08][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:54:08][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:54:08][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.06 06:54:09][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:54:09][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:54:09][debug] chunckList: chunklist_w2003542235.m3u8
+[2020.09.06 06:54:09][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w2003542235.m3u8
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:54:09][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.06 06:54:09][error] org.jsoup.HttpStatusException: HTTP error fetching URL. Status=404, URL=https://videocam.online/Object/Ingrad/RiverSky/Came.php
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.06 06:54:09][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.06 06:54:10][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky02.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers02.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:54:10][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/playlist.m3u8
+[2020.09.06 06:54:10][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:54:10][debug] chunckList: chunklist_w2112424040.m3u8
+[2020.09.06 06:54:10][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky02.stream/chunklist_w2112424040.m3u8
+[2020.09.06 06:54:10][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:54:10][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:54:10][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\1.TS успешно закачан
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\2.TS успешно закачан
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\VIDEO\Cam2\3.TS успешно закачан
+[2020.09.06 06:54:11][debug] <html> 
+ <head>
+  <script type="text/javascript" src="//player.wowza.com/player/latest/wowzaplayer.min.js"></script> 
+  <style>
+		html, body {
+			margin:0;padding:0;
+		}
+	</style> 
+ </head>
+ <body> 
+  <div id="playerElement" style="width:100%; height:0; padding:0 0 56.25% 0"></div> 
+  <script type="text/javascript">
+
+WowzaPlayer.create('playerElement',
+    {
+    "license":"PLAY1-48t6f-4hc7D-JTeXh-7E89r-ue8aW",
+    "title":"",
+    "description":"",
+    "sourceURL":"https%3A%2F%2F553dc34944e34.streamlock.net%2Fingrad%2FRiverSky03.stream%2Fplaylist.m3u8",
+	"autoPlay":false,
+    "volume":"75",
+    "mute":true,
+    "loop":false,
+    "audioOnly":false,
+    "uiShowQuickRewind":true,
+	"posterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "endPosterFrameURL":"https%3A%2F%2Fvideocam.online%2FObject%2FIngrad%2FRiverSky%2Fwalpappers03.jpg",
+    "uiPosterFrameFillMode":"fill",
+    "uiQuickRewindSeconds":"30"
+    }
+);
+</script>
+ </body>
+</html>
+[2020.09.06 06:54:11][debug] Найденая ссылка при парсинге: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/playlist.m3u8
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\PLAYLIST\playlist.m3u8 успешно закачан
+[2020.09.06 06:54:11][debug] chunckList: chunklist_w526394156.m3u8
+[2020.09.06 06:54:11][debug] chunklist: https://553dc34944e34.streamlock.net/ingrad/RiverSky03.stream/chunklist_w526394156.m3u8
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\PLAYLIST\chuncklist.m3u8 успешно закачан
+[2020.09.06 06:54:11][info] Очистка каталога C:\git\java\myDownloader\VIDEO
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\1.TS успешно закачан
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\2.TS успешно закачан
+[2020.09.06 06:54:11][debug] файл C:\git\java\myDownloader\VIDEO\Cam3\3.TS успешно закачан
+[2020.09.06 06:54:13][info] Попытка остановки процесса
+[2020.09.06 06:54:13][info] Процесс остановлен
+[2020.09.06 06:56:20][info] Запуск приложения
+[2020.09.06 06:56:20][debug] timer: 5000
+[2020.09.06 06:56:59][info] Запуск приложения
+[2020.09.06 06:56:59][debug] timer: 5000
