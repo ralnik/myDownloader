@@ -18,6 +18,7 @@ import ru.ralnik.configuration.AppContext;
 import ru.ralnik.exception.AppException;
 import ru.ralnik.logging.Log;
 import ru.ralnik.utils.FileUtils;
+import service.ConfigService;
 
 public class HtmlParser {
 	private String url;
@@ -36,35 +37,39 @@ public class HtmlParser {
 			// Получаем содрежимое html страницы
 			String link = findLink(doc.html());
 			if (link != null) {
+				String playlist1 = AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "/" + numCamera + "/playlist.m3u8";
+				String playlist2 = AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "/" + numCamera + "/chuncklist.m3u8";
 				// Скачиваем playlist.m3u8 по спарсеной ссылке
-				Downloader.downloadFile(link, AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "playlist.m3u8");
+				Downloader.downloadFile(link, playlist1);
 				// Парсется chunckList, и получаем имя файла chunckList
-				String chunckList = parseChunklistFilename(
-						AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "playlist.m3u8");
+				String chunckList = parseChunklistFilename(playlist1);
 				Log.debug("chunckList: " + chunckList);
 
 				URL resource = new URL(link);
 				// формируем ссылку на chunckList
 				String chunckListLink = resource.getProtocol() + "://" + resource.getHost()
 						+ resource.getPath().replace("playlist.m3u8", "")
-						+ parseChunklistFilename(AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "playlist.m3u8");
+						+ parseChunklistFilename(playlist1);
 				Log.debug("chunklist: " + chunckListLink);
 
 				// Скачиваем chunklist_*.m3u8
-				Downloader.downloadFile(chunckListLink,
-						AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "chuncklist.m3u8");
-				List<String> videos = parseVideoFilename(
-						AppContext.getCfg().get(AppConfig.PLAYLIST_DIR) + "chuncklist.m3u8");
+				Downloader.downloadFile(chunckListLink, playlist2);
+				List<String> videos = parseVideoFilename(playlist2);
 				
-				FileUtils.deleteAllVideoFiles(new File((String)AppContext.getCfg().get(AppConfig.VIDEO_DIR)));
-				int num = 1;
+				FileUtils.deleteAllVideoFiles(new File((String)AppContext.getCfg().get(AppConfig.VIDEO_DIR) + "/" + numCamera));
+				
+				int num = FileUtils.getCountFiles(new File(ConfigService.getVideoDir() + numCamera));
+				Log.debug("Кол-во файлов в каталоге " + num);
 				for (String video : videos) {
-					Downloader.downloadFile(
-							resource.getProtocol() + "://" + resource.getHost()
-									+ resource.getPath().replace("playlist.m3u8", "") + video,
-									//AppContext.getCfg().get(AppConfig.VIDEO_DIR) + changeExt(video));
-									(String)AppContext.getCfg().get(AppConfig.VIDEO_DIR) + numCamera + "/" + num + "." + AppContext.getCfg().get(AppConfig.VIDEO_EXT));
-				num++;
+					// Если кол-во файлов привышает глубину, то не качаем
+					if (num <= ConfigService.getCountFiles()) {		
+						Log.debug("Кол-во файлов в каталоге " + num + " < " + ConfigService.getCountFiles());
+						Downloader.downloadFile(resource.getProtocol() + "://" + resource.getHost()
+										+ resource.getPath().replace("playlist.m3u8", "") + video,
+										ConfigService.getVideoDir() + numCamera + "/" + num + "." + AppContext.getCfg().get(AppConfig.VIDEO_EXT));
+						num++;
+					}
+				
 				}
 			}
 		} catch (AppException e) {

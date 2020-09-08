@@ -20,6 +20,7 @@ public class AppConfig {
 	public static final String PLAYLIST_DIR = "playlist_dir";
 	public static final String DEBUG = "debug";
 	public static final String DELETE_VIDEO_FILES = "delete_video_files";
+	public static final String COUNT_FILES = "count_files";
 	
 	private Properties props;
 	
@@ -63,6 +64,9 @@ public class AppConfig {
 		saveComment("Удаление всех скаченных видео файлов, перед закачкой новых");
 		saveComment("0 - не удалять, 1 - удалять");
 		saveValue(DELETE_VIDEO_FILES, "1");
+		
+		saveComment("Глубина видео файлов в каталоге");
+		saveValue(COUNT_FILES, "9");
 	}
 	
 	private void saveValue(String key, String value) throws IOException {

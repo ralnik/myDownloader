@@ -26,7 +26,7 @@ public class MainFrame extends JFrame {
 	
 	public MainFrame() {
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setTitle("myDownloader v1.0.1");
+		setTitle("myDownloader v1.0.2");
 		setBounds(100, 100, 450, 300);
 		getContentPane().setLayout(new BorderLayout(0, 0));
 		
