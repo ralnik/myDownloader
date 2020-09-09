@@ -45,6 +45,6 @@ public static void deleteAllVideoFiles(File dir) throws AppException {
 public static int getCountFiles(File dir) {
 	if (dir.list() != null && dir.list().length != 0)
 		return dir.list().length;
-	else return 1;
+	else return 0;
 }
 }

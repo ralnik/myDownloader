@@ -1,5 +1,7 @@
 package ru.ralnik.exception;
 
+import ru.ralnik.logging.Log;
+
 /**
  * 
  * @author ralnik
@@ -15,14 +17,17 @@ public class AppException extends Exception {
 
 	public AppException(String message, Throwable cause) {
 		super(message, cause);
+		Log.error(message);
 	}
 
 	public AppException(String message) {
 		super(message);
+		Log.error(message);
 	}
 
 	public AppException(Throwable cause) {
 		super(cause);
+		Log.error(cause.getMessage());
 	}
 	
 }

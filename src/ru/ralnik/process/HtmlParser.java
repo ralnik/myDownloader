@@ -60,14 +60,15 @@ public class HtmlParser {
 				
 				int num = FileUtils.getCountFiles(new File(ConfigService.getVideoDir() + numCamera));
 				Log.debug("Кол-во файлов в каталоге " + num);
-				for (String video : videos) {
+				for (String video : videos) {	
+					num++;
 					// Если кол-во файлов привышает глубину, то не качаем
 					if (num <= ConfigService.getCountFiles()) {		
 						Log.debug("Кол-во файлов в каталоге " + num + " < " + ConfigService.getCountFiles());
 						Downloader.downloadFile(resource.getProtocol() + "://" + resource.getHost()
 										+ resource.getPath().replace("playlist.m3u8", "") + video,
 										ConfigService.getVideoDir() + numCamera + "/" + num + "." + AppContext.getCfg().get(AppConfig.VIDEO_EXT));
-						num++;
+						
 					}
 				
 				}

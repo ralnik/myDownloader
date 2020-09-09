@@ -12,4 +12,8 @@ public class ConfigService {
 	public static int getCountFiles() {
 		return Integer.valueOf(AppContext.getCfg().get(AppConfig.COUNT_FILES).toString());
 	}
+	
+	public static int getTimer() {
+		return Integer.valueOf(AppContext.getCfg().get(AppConfig.TIMER).toString())*1000;
+	}
 }

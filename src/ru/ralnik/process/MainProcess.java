@@ -21,7 +21,7 @@ public class MainProcess extends Thread {
 			HtmlParser htmlParserCam3 = new HtmlParser("https://videocam.online/Object/Ingrad/RiverSky/Cam3.php", "Cam3");
 			htmlParserCam3.parse();
 		} catch (AppException e) {
-			Log.error(e.getMessage());
+			Log.error("[" + this.getClass() + "]" + e.getMessage());
 		}
 		
 	}
